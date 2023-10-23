@@ -1,2 +1,11 @@
 # CS255-DriverPass-Project
 Hypothetical system design for DriverPass client. 
+
+The DriverPass project was a system that was designed for a company called DriverPass that wanted to streamline the process of learning how to drive. The program owner wanted to create a system that would allow students to learn, take practice tests, and schedule road tests all from any device with a stable internet connection. The system would also allow for instructors to interact with students by viewing their progress, and leaving notes about past road tests. For this project, I really liked how my Business Requirements document turned out. I thought that I was able to really capture all of the system requirements and functionalities that the client highlighted in the interview. It was interesting to consider what it would take to put together a system that met the clients needs. If there was one area that I would like to improve however, it would be the diagrams from the second project. My system design documents could have been a bit clearer especially the class diagram could have been more precise and clear. Specifically, I would like to better identify the cardinality of the relationships between the different classes in the system.
+
+Being able to interpret the needs of your users is very important to designing a useful and efficient system. To ensure that I am fully capturing their needs, I try and thing bigger picture about what the system is and what it is trying to accomplish. From there, it becomes easier to explore how the system will work to accomplish what it needs to do. For this project, user needs were collected by interviewing the proposed system owner and gathering the necessary requirements to make his vision come to life. It is important that you consider user needs in your design to ensure that the final system meets your client's expectations and successfully fulfills their objectives. 
+
+To design this system I started by reviewing the requirements gathering interview and wrote down who the system was for and what was the system being made to accomplish. From there, I identified the intended end users, and what specific functionalities they would need to  use the system effectively. I then identified the many processes and classes that would make up the system, and how they would work together to help the system function. 
+
+
+
